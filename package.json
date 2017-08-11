@@ -1,0 +1,18 @@
+{
+  "name": "esm-demo",
+  "version": "1.0.0",
+  "description": "demo of using ES modules in Node",
+  "scripts": {
+    "start": "node -r @std/esm index.js"
+  },
+  "author": "R. Mark Volkmann <r.mark.volkmann@gmail.com> (http://ociweb.com/mark)",
+  "license": "MIT",
+  "dependencies": {
+    "@std/esm": "^0.1.1"
+  },
+  "@std": {
+    "esm": {
+      "esm": "all"
+    }
+  }
+}
