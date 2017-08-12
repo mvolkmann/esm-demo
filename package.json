@@ -10,9 +10,7 @@
   "dependencies": {
     "@std/esm": "^0.1.1"
   },
-  "@std": {
-    "esm": {
-      "esm": "all"
-    }
+  "@std/esm": {
+    "esm": "all"
   }
 }
