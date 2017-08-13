@@ -8,9 +8,8 @@
   "author": "R. Mark Volkmann <r.mark.volkmann@gmail.com> (http://ociweb.com/mark)",
   "license": "MIT",
   "dependencies": {
-    "@std/esm": "^0.1.1"
+    "@std/esm": "^0.2.2"
   },
-  "@std/esm": {
-    "esm": "all"
-  }
+  "devDependencies": {},
+  "@std/esm": "all"
 }
